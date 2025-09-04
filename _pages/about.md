@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shaoxuan Li's Homepage"
+title: "Shaoxuan Li(李少煊)'s Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,13 +14,19 @@ I am now a Ph.D. student in [VMC group](https://www.pkuvmc.com/) under the super
 =====
 * Sep. 2025: I am now a Ph.D. student in [VMC group](https://www.pkuvmc.com/) under the supervision of Professor Shiliang Zhang at Peking University!
 
+
+
 📖 Educations
 ======
 * Sep. 2025-now., Ph.D., School of Computer Science, Peking University.
 * Sep. 2021-Jul. 2025, Undergraduate, School of Electronic Engineering and Computer Science, Peking University.
 
+
+
 📑 Publications
 ======
+
+
 
 💻 Internships
 ======
