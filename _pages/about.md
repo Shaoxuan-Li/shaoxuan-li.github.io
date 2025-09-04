@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am now a Ph.D. student in [VMC group](https://www.pkuvmc.com/) under the supervision of Professor Shiliang Zhang at Peking University, Beijing, China. My research interests are 3D computer vision and multimodal LLM.
+I am now a Ph.D. student in [VMC group](https://www.pkuvmc.com/), under the supervision of Professor Shiliang Zhang at Peking University, Beijing, China. My research interests are 3D computer vision and multimodal LLM.
 
 🔥 News
 =====
-* Sep. 2025: I am now a Ph.D. student in [VMC group](https://www.pkuvmc.com/) under the supervision of Professor Shiliang Zhang at Peking University!
+* Sep. 2025: I am now a Ph.D. student in the School of Computer Science, Peking University.
 
 
 
