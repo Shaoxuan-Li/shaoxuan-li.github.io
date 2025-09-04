@@ -12,6 +12,7 @@ I am now a Ph.D. student in [VMC group](https://www.pkuvmc.com/) under the super
 
 🔥 News
 =====
+* Sep. 2025: I am now a Ph.D. student in [VMC group](https://www.pkuvmc.com/) under the supervision of Professor Shiliang Zhang at Peking University!
 
 📖 Educations
 ======
