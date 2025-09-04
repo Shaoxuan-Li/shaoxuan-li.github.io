@@ -18,8 +18,8 @@ I am now a Ph.D. student in [VMC group](https://www.pkuvmc.com/) under the super
 
 📖 Educations
 ======
-* Sep. 2025-now., Ph.D., School of Computer Science, Peking University.
-* Sep. 2021-Jul. 2025, Undergraduate, School of Electronic Engineering and Computer Science, Peking University.
+* Sep. 2025-now., Ph.D., [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+* Sep. 2021-Jul. 2025, Undergraduate, [School of Electronic Engineering and Computer Science](https://eecs.pku.edu.cn/), Peking University.
 
 
 
