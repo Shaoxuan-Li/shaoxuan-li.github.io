@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Shaoxuan Li"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -23,8 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "./profile.jpg"
-  name             : "李少煊                    Shaoxuan Li"
-  pronouns         : "Shaoxuan Li"  
+  name             : "李少煊"
+  pronouns         : # "Shaoxuan Li"  
   bio              : "Ph.D. student at Peking University"
   location         : "Beijing, China"
   employer         : "Peking University"
