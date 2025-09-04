@@ -23,7 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "李少煊 \\Shaoxuan Li"
+  name             : "李少煊
+                      Shaoxuan Li"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Peking University"
   location         : "Beijing, China"
